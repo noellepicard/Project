@@ -1,1 +1,2 @@
 # Project
+This code was created by Noelle Picard on 10/18/2022. This code was created to search for a portion of specific genes that code for Casp3 and Cdkn1a which are involved in apoptosis from 3 separate files that have sequences for E. maclovinus and C. rastrospinus when exposed to heat stress as well as E. maclovinus in resting conditions. This code labels the sequences with the appropriate fish species and protein it encodes for and the combines them into one file. This code can be found on chinook at $CENTER1/COMPSKILL/napicard.
